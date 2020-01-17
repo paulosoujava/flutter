@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308998840770",
+    "firebase_url": "https://loja-623cf.firebaseio.com",
+    "project_id": "loja-623cf",
+    "storage_bucket": "loja-623cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308998840770:android:d744d2a7c7a52a2690765b",
+        "android_client_info": {
+          "package_name": "com.jorge.paulo.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308998840770-lgdip74beqndd52sg5qunjbb5mhcf784.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_iprVnalHe9BM9HCcyT38Z5L5X-3jIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308998840770-lgdip74beqndd52sg5qunjbb5mhcf784.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
